@@ -1,4 +1,4 @@
-# 🎬✨ Welcome to the Video-Generator-with-AI Repository! 🚀🌟
+# 🎬✨ Welcome to the AI-Video-Generator Repository! 🚀🌟
 
 - In this project, you input a topic, and then separate prompts for both audio and video are generated, allowing you to edit them before finalizing. Once the prompts are set, a complete video with synchronized audio is created. Additionally, you can enhance the final output by adding a song of your choice, integrating a talking face for more engaging visuals, and including subtitles in the video.
 - The code is in spanish, but with a few changes it will work on other languages
